@@ -1,0 +1,10 @@
+EXAMPLE DATASET: 
+
+
+Student,     Tab         Time per          Mouse activity ,      Result
+            Switches,    Question,
+
+A      ,     1     ,    Normal      ,      Stable       ,        Normal 
+B      ,     10    ,    Very Fast   ,      Random       ,        Suspicious 
+C      ,     0     ,    Normal      ,      Stable       ,       Normal 
+D      ,     15    ,   Irregular    ,    Abnormal       ,      Suspicious
