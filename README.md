@@ -14,6 +14,7 @@ Support Vector Machine (SVM)
 
 ## Files Included
 - Project Notebook
+- dataset
 - Report
 - PPT
 
